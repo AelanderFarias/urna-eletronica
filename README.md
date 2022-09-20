@@ -8,6 +8,8 @@
 * CSS
 * JavaScript
 
+[Clique aqui para acessar o projeto](https://aelanderfarias.github.io/urna-eletronica/)
+
 
 ## 🇧🇷 "Boca de urna" 
 > Vereador
